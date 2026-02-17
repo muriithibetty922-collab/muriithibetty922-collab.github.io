@@ -1,5 +1,5 @@
-# Tiffy-Twinny
-Hi, Im Tiffy Twinny .
+# Betty Muriithi
+Hi, Im Betty Muriithi .
 ## About Me
 - I'm currently learning Computer Programming at We Can Academy.
 - I'm interested in developing softwares
@@ -11,7 +11,7 @@ Hi, Im Tiffy Twinny .
 - Flameworks and libraries
 
 ## Current Projects
-- [Project name](link) — short description
+Coding project — Coding 
 
 ## How to Reach Me
 - Email: muriithibetty922@gmail.com
