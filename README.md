@@ -1,5 +1,5 @@
 # Betty Muriithi
-Hi, Im Betty Muriithi .
+Hi, I`m Betty Muriithi .
 ## About Me
 - I'm currently learning Computer Programming at We Can Academy.
 - I'm interested in developing softwares
